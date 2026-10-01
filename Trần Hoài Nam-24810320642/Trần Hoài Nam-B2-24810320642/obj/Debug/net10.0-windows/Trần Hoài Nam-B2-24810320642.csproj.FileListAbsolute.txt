@@ -1,0 +1,17 @@
+D:\laptrinh.net\Trần Hoài Nam-24810320642\bin\Debug\net10.0-windows\Trần Hoài Nam-B2-24810320642.exe
+D:\laptrinh.net\Trần Hoài Nam-24810320642\bin\Debug\net10.0-windows\Trần Hoài Nam-B2-24810320642.deps.json
+D:\laptrinh.net\Trần Hoài Nam-24810320642\bin\Debug\net10.0-windows\Trần Hoài Nam-B2-24810320642.runtimeconfig.json
+D:\laptrinh.net\Trần Hoài Nam-24810320642\bin\Debug\net10.0-windows\Trần Hoài Nam-B2-24810320642.dll
+D:\laptrinh.net\Trần Hoài Nam-24810320642\bin\Debug\net10.0-windows\Trần Hoài Nam-B2-24810320642.pdb
+D:\laptrinh.net\Trần Hoài Nam-24810320642\obj\Debug\net10.0-windows\Trần_Hoài_Nam_24810320642.PhuongTien.resources
+D:\laptrinh.net\Trần Hoài Nam-24810320642\obj\Debug\net10.0-windows\Trần Hoài Nam-B2-24810320642.csproj.GenerateResource.cache
+D:\laptrinh.net\Trần Hoài Nam-24810320642\obj\Debug\net10.0-windows\Trần Hoài Nam-B2-24810320642.GeneratedMSBuildEditorConfig.editorconfig
+D:\laptrinh.net\Trần Hoài Nam-24810320642\obj\Debug\net10.0-windows\Trần Hoài Nam-B2-24810320642.AssemblyInfoInputs.cache
+D:\laptrinh.net\Trần Hoài Nam-24810320642\obj\Debug\net10.0-windows\Trần Hoài Nam-B2-24810320642.AssemblyInfo.cs
+D:\laptrinh.net\Trần Hoài Nam-24810320642\obj\Debug\net10.0-windows\Trần Hoài Nam-B2-24810320642.csproj.CoreCompileInputs.cache
+D:\laptrinh.net\Trần Hoài Nam-24810320642\obj\Debug\net10.0-windows\Trần Hoài Nam-B2-24810320642.dll
+D:\laptrinh.net\Trần Hoài Nam-24810320642\obj\Debug\net10.0-windows\refint\Trần Hoài Nam-B2-24810320642.dll
+D:\laptrinh.net\Trần Hoài Nam-24810320642\obj\Debug\net10.0-windows\Trần Hoài Nam-B2-24810320642.pdb
+D:\laptrinh.net\Trần Hoài Nam-24810320642\obj\Debug\net10.0-windows\Trần Hoài Nam-B2-24810320642.genruntimeconfig.cache
+D:\laptrinh.net\Trần Hoài Nam-24810320642\obj\Debug\net10.0-windows\ref\Trần Hoài Nam-B2-24810320642.dll
+D:\laptrinh.net\Trần Hoài Nam-24810320642\obj\Debug\net10.0-windows\Tr_n Ho_.2AF47B1C.Up2Date

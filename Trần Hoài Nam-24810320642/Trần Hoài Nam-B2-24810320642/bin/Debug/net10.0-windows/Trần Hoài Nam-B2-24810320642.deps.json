@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Trần Hoài Nam-B2-24810320642/1.0.0": {
+        "runtime": {
+          "Trần Hoài Nam-B2-24810320642.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Trần Hoài Nam-B2-24810320642/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
